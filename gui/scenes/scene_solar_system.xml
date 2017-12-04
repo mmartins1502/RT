@@ -1,0 +1,95 @@
+<camera>
+	<origin>0,0,-150</origin>
+	<direction>0,-0.55,0</direction>
+</camera>
+
+<!-- SOLEIL -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,0</origin>
+	<radius>100</radius>
+	<color>0xFF,0x77,0x00</color>
+    <light>50, 50, 50</light>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- MERCURE -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,182</origin>
+	<radius>0.3</radius>
+	<color>0xFF,0x77,0x00</color>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- VENUS -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,250</origin>
+	<radius>0.8</radius>
+	<color>0xFF,0x77,0x00</color>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- EARTH -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,314</origin>
+	<radius>1</radius>
+	<color>0xFF,0x77,0x00</color>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- MOON -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,318</origin>
+	<radius>0.4</radius>
+	<color>0xFF,0x77,0x00</color>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- MARS -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,426</origin>
+	<radius>0.4</radius>
+	<color>0xFF,0x77,0x00</color>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- JUPITER -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,1218</origin>
+	<radius>10.2</radius>
+	<color>0xFF,0x77,0x00</color>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- SATURN -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,2150</origin>
+	<radius>8.3</radius>
+	<color>0xFF,0x77,0x00</color>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- URANUS -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,4224</origin>
+	<radius>3.3</radius>
+	<color>0xFF,0x77,0x00</color>
+	<fuzz>0.1</fuzz>
+</object>
+
+<!-- NEPTUNE -->
+<object>
+	<type>sphere</type>
+	<origin>0,0,41</origin>
+	<radius>3.2</radius>
+	<color>0x66,0x66,0xFF</color>
+	<fuzz>0.1</fuzz>
+</object>

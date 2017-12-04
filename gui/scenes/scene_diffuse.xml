@@ -1,0 +1,88 @@
+<camera>
+	<origin>0,100,-150</origin>
+	<direction>0,-0.55,0</direction>
+</camera>
+
+<!--  -->
+
+<!-- <object> -->
+	<!-- <type>plane</type> -->
+	<!-- <origin>0, 0, 100</origin> -->
+	<!-- <direction>0, 0, 1</direction> -->
+	<!-- <color>0xFF, 0xAA, 0xCC</color> -->
+	<!-- <reflection>2.000</reflection> -->
+<!-- </object> -->
+
+<!-- <object> -->
+	<!-- <type>plane</type> -->
+	<!-- <origin>0, 0, -100</origin> -->
+	<!-- <direction>0, 0, -1</direction> -->
+	<!-- <color>0xFF, 0xAA, 0xCC</color> -->
+	<!-- <reflection>2.000</reflection> -->
+<!-- </object> -->
+
+<!-- <object> -->
+	<!-- <type>plane</type> -->
+	<!-- <origin>100, 0, 0</origin> -->
+	<!-- <direction>1, 0, 0</direction> -->
+	<!-- <color>0xAA, 0xFF, 0xCC</color> -->
+	<!-- <reflection>2.000</reflection> -->
+<!-- </object> -->
+
+<!-- <object> -->
+	<!-- <type>plane</type> -->
+	<!-- <origin>-100, 0, 0</origin> -->
+	<!-- <direction>-1, 0, 0</direction> -->
+	<!-- <color>0xCC, 0xAA, 0xFF</color> -->
+	<!-- <reflection>2.000</reflection> -->
+<!-- </object> -->
+
+<!--  -->
+
+<object>
+	<type>plane</type>
+	<origin>0, -21, 0</origin>
+	<direction>0, -1, 0</direction>
+	<color>0xAA, 0xAA, 0xCC</color>
+	<reflection>2.000</reflection>
+	<fuzz>0.5</fuzz>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>0,0,41</origin>
+	<radius>21</radius>
+	<color>0xAA,0xAA,0xAA</color>
+	<reflection>2.000</reflection>
+	<fuzz>0.1</fuzz>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-35,0,0</origin>
+	<radius>21</radius>
+	<color>0xFF,0x00,0x00</color>
+	<reflection>2.000</reflection>
+	<fuzz>0.1</fuzz>
+	<!-- <refraction>2.5</refraction> -->
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>35,0,0</origin>
+	<radius>21</radius>
+	<color>0xAA,0x77,0x22</color>
+	<reflection>2.000</reflection>
+	<fuzz>0.1</fuzz>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>0,0,-41</origin>
+	<radius>21</radius>
+	<color>0x22,0x55,0x11</color>
+	<reflection>2.000</reflection>
+	<!-- <refraction>1.1</refraction> -->
+	<fuzz>0.1</fuzz>
+</object>
+<!--  -->

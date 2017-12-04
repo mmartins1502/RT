@@ -1,0 +1,98 @@
+<camera>
+	<origin>-38.453970, 16.016638, -88.483069</origin>
+	<direction>-0.700000, -0.100000, 1.000000</direction>
+</camera>
+<object>
+	<type>sphere</type>
+	<origin>0.000000, 200.000000, -50.000000</origin>
+	<radius>15.000000</radius>
+	<color>0xaa, 0xaa, 0xaa</color>
+	<light>1000, 1000, 1000</light>
+</object>
+<object>
+	<type>sphere</type>
+	<origin>100.000000, 200.000000, -50.000000</origin>
+	<radius>15.000000</radius>
+	<color>0xaa, 0xaa, 0xaa</color>
+	<light>1000, 1000, 1000</light>
+</object>
+<object>
+	<type>sphere</type>
+	<origin>200.000000, 200.000000, -50.000000</origin>
+	<radius>15.000000</radius>
+	<color>0xaa, 0xaa, 0xaa</color>
+	<light>1000, 1000, 1000</light>
+</object>
+<object>
+	<type>cylinder</type>
+	<origin>-30.000000, 0.000000, 0.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>15.000000</radius>
+	<angle>12891.550390</angle>
+	<color>0xff, 0xff, 0xff</color>
+	<refraction>2.000000</refraction>
+</object>
+<object>
+	<type>sphere</type>
+	<origin>-30.000000, 0.000000, -30.000000</origin>
+	<radius>15.000000</radius>
+	<color>0xaa, 0xaa, 0xaa</color>
+	<refraction>2.000000</refraction>
+</object>
+<object>
+	<type>cylinder</type>
+	<origin>15.000000, 0.000000, 0.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>15.000000</radius>
+	<angle>12891.550390</angle>
+	<color>0xff, 0xff, 0xff</color>
+	<reflection>2.000000</reflection>
+</object>
+<object>
+	<type>sphere</type>
+	<origin>15.000000, 0.000000, -30.000000</origin>
+	<radius>15.000000</radius>
+	<color>0xaa, 0xaa, 0xaa</color>
+	<reflection>2.000000</reflection>
+</object>
+<object>
+	<type>cylinder</type>
+	<origin>60.000000, 0.000000, 0.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>15.000000</radius>
+	<angle>12891.550390</angle>
+	<color>0xff, 0xff, 0xff</color>
+	<reflection>2.000000</reflection>
+	<fuzz>0.500000</fuzz>
+</object>
+<object>
+	<type>sphere</type>
+	<origin>60.000000, 0.000000, -30.000000</origin>
+	<radius>15.000000</radius>
+	<color>0xaa, 0xaa, 0xaa</color>
+	<reflection>2.000000</reflection>
+	<fuzz>0.500000</fuzz>
+</object>
+<object>
+	<type>cylinder</type>
+	<origin>105.000000, 0.000000, 0.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>15.000000</radius>
+	<angle>12891.550390</angle>
+	<color>0xff, 0xff, 0xff</color>
+</object>
+<object>
+	<type>sphere</type>
+	<origin>105.000000, 0.000000, -30.000000</origin>
+	<radius>15.000000</radius>
+	<color>0xaa, 0xaa, 0xaa</color>
+</object>
+<object>
+	<type>plane</type>
+	<origin>0.000000, -15.000000, 0.000000</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<color>0x77, 0x77, 0x77</color>
+	<damier>1.000000</damier>
+	<damier1>0x00, 0x00, 0x00</damier1>
+	<damier2>0xFF, 0x00, 0x00</damier2>
+</object>

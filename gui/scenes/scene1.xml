@@ -1,0 +1,57 @@
+<camera>
+	<origin>0, 100, -200</origin>
+	<direction>0, -0.2, 1</direction>
+</camera>
+
+<object>
+	<type>sphere</type>
+	<origin>100, 100, -100</origin>
+	<radius>21</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+	<light>200,200,200</light>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>0, 0, 0</origin>
+	<radius>21</radius>
+	<color>0x00, 0x00, 0xFF</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>0, 42, 0</origin>
+	<radius>10</radius>
+	<color>0xFF, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>0, 0, 200</origin>
+	<direction>0, 0, 1</direction>
+	<color>0xFF, 0xFF, 0xFF</color>
+	<reflection>2.0</reflection>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>0, -21, 0</origin>
+	<direction>0, -1, 0</direction>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<origin>-42, 0, 0</origin>
+	<direction>-0.35, 1, 0</direction>
+	<radius>10</radius>
+	<color>0xFF, 0x00, 0xFF</color>
+</object>
+
+<object>
+	<type>cone</type>
+	<origin>42, 21, 0</origin>
+	<direction>0.35, 1, 0</direction>
+	<angle>5</angle>
+	<color>0xFF, 0xFF, 0x00</color>
+</object>

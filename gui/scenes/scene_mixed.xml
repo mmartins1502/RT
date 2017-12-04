@@ -1,0 +1,63 @@
+<camera>
+	<origin>0, 25, -100</origin>
+	<direction>0, 0, 1</direction>
+</camera>
+
+<object>
+	<type>sphere</type>
+	<origin>0, 100, -100</origin>
+	<radius>21</radius>
+	<color>0xFF, 0x00, 0x00</color>
+	<light>1000,1000,1000</light>
+</object>
+
+<!-- normal -->
+<object>
+	<type>sphere</type>
+	<origin>0, 40, 0</origin>
+	<radius>21</radius>
+	<color>0xFF, 0x00, 0x00</color>
+	<!-- <light>1,0,0</light> -->
+</object>
+
+<!-- refraction -->
+<object>
+	<type>sphere</type>
+	<origin>0, 15, -30</origin>
+	<radius>15</radius>
+	<color>0xAA, 0xAA, 0xAA</color>
+	<refraction>2.5000</refraction>
+</object>
+
+<!-- reflection -->
+<object>
+	<type>sphere</type>
+	<origin>-30, 0, 0</origin>
+	<!-- <direction>0, 1, 0</direction> -->
+	<radius>21</radius>
+	<!-- <angle>25</angle> -->
+	<color>0xAA, 0xAA, 0xAA</color>
+	<reflection>0.9</reflection>
+	<marblesize>0.00100</marblesize>
+	<marblecolor>0x00,0xFF,0x00</marblecolor>
+</object>
+
+<!-- marble -->
+<object>
+	<type>sphere</type>
+	<origin>30, 0, 0</origin>
+	<radius>21</radius>
+	<color>0x00, 0x00, 0xFF</color>
+	<marblesize>0.010000</marblesize>
+	<marblecolor>0xFF,0x00,0x00</marblecolor>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>0, -21, 0</origin>
+	<direction>0, -1, 0</direction>
+	<color>0xFF, 0xFF, 0xFF</color>
+	<damier>2</damier>
+	<damier1>0xFF, 0xFF, 0xFF</damier1>
+	<damier2>0x00, 0x00, 0x00</damier2>
+</object>

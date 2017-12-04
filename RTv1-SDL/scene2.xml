@@ -1,0 +1,151 @@
+<camera>
+	<origin>30, 0, -170</origin>
+	<direction>0.2, 0, 1</direction>
+</camera>
+
+<light>
+	<origin>0, 0, -25</origin>
+	<color>0xFF, 0xFF, 0xFF</color>
+</light>
+
+<!-- WALLS -->
+
+<object>
+	<type>plane</type>
+	<direction>-1, -0.5, 0</direction>
+	<origin>-70, 0, 0</origin>
+	<color>0xA1, 0x24, 0xA1</color>
+</object>
+
+<object>
+	<type>plane</type>
+	<direction>1, -0.5, 0</direction>
+	<origin>70, 0, 0</origin>
+	<color>0xF4, 0xE3, 0x2F</color>
+</object>
+
+<object>
+	<type>plane</type>
+	<direction>0, -1, 0</direction>
+	<origin>0, -50, 0</origin>
+	<color>0xFF, 0x5A, 0x00</color>
+</object>
+
+<object>
+	<type>plane</type>
+	<direction>0.2, 1, 0</direction>
+	<origin>0, 50, 0</origin>
+	<color>0x26, 0xE7, 0xC5</color>
+</object>
+
+<object>
+	<type>plane</type>
+	<direction>0, 0, 1</direction>
+	<origin>0, 0, 50</origin>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<!-- COLUMNS -->
+
+<object>
+	<type>cylinder</type>
+	<direction>0, 1, 0</direction>
+	<origin>-35, 0, -12</origin>
+	<color>0xFF, 0x00, 0x00</color>
+	<radius>5</radius>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<direction>0, 1, 0</direction>
+	<origin>35, 0, -12</origin>
+	<color>0xFF, 0x00, 0x00</color>
+	<radius>5</radius>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<direction>0, 1, 0</direction>
+	<origin>-17, 0, 12</origin>
+	<color>0xFF, 0x00, 0x00</color>
+	<radius>5</radius>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<direction>0, 1, 0</direction>
+	<origin>17, 0, 12</origin>
+	<color>0xFF, 0x00, 0x00</color>
+	<radius>5</radius>
+</object>
+
+<!-- COLUMNS BOTTOM -->
+
+<object>
+	<type>sphere</type>
+	<origin>-35, -50, -12</origin>
+	<radius>8</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>35, -50, -12</origin>
+	<radius>8</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-17, -50, 12</origin>
+	<radius>8</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>17, -50, 12</origin>
+	<radius>8</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<!-- COLUMNS TOPS -->
+
+<object>
+	<type>sphere</type>
+	<origin>-35, 55, -12</origin>
+	<radius>8</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-17, 52, 12</origin>
+	<radius>8</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>17, 48, 12</origin>
+	<radius>8</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>35, 43, -12</origin>
+	<radius>8</radius>
+	<color>0xFF, 0xFF, 0xFF</color>
+</object>
+
+<!-- CONE -->
+
+<object>
+	<type>cone</type>
+	<origin>0, 0, -12</origin>
+	<direction>0, 1, 0</direction>
+	<angle>7</angle>
+	<color>0xFF, 0x00, 0xFF</color>
+</object>
+<!--  -->
