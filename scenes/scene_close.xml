@@ -1,0 +1,66 @@
+<camera>
+	<origin>0.113198, -5.348711, -208.027975</origin>
+	<direction>-6.300000, -0.400000, 0.000000</direction>
+</camera>
+
+<object>
+	<type>plane</type>
+	<origin>-20.883841, -104.991671, 28.758516</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<height>50.472136</height>
+	<color>0x01, 0x01, 0x01</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>-36.022157, -74.991671, 32.082092</origin>
+	<direction>-0.997152, -0.010077, -0.074745</direction>
+	<height>50.605551</height>
+	<color>0x01, 0x01, 0x01</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>26.056736, -74.991671, 24.604046</origin>
+	<direction>0.997152, 0.010077, 0.074745</direction>
+	<height>50.605551</height>
+	<color>0x01, 0x01, 0x01</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>-20.883841, 35.991671, 28.758516</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<height>50.472136</height>
+	<color>0xFF, 0xFF, 0xFF</color>
+	<light>1034.000000</light>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>-19.630089, 10.161796, -32.812210</origin>
+	<direction>0.000000, 0.000000, 1.000000</direction>
+	<height>50.472136</height>
+	<color>0x01, 0x01, 0x01</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>43.244503, -7.430325, -216.833407</origin>
+	<direction>0.000000, 0.000000, -1.000000</direction>
+	<height>50.472136</height>
+	<color>0x01, 0x01, 0x01</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>2.486718, -77.813706, -75.243092</origin>
+	<radius>13.490738</radius>
+	<height>0.000000</height>
+	<color>0x83, 0x76, 0x2D</color>
+	<texture>raytracer</texture>
+</object>

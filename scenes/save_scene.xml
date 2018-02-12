@@ -1,0 +1,14 @@
+<camera>
+	<origin>0.000000, 0.000000, -20.000000</origin>
+	<direction>0.000000, 			0.000000, 0.000000</direction>
+</camera>
+
+<object>
+	<type>cylinder</type>
+	<origin>0.000000, -15.000000, 30.000000			</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>5.477226			</radius>
+	<height>5.477226</height>
+	<color>0x88, 0x4E, 0x83</color>			
+</object>
+

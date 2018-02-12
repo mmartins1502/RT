@@ -1,0 +1,172 @@
+<camera>
+	<origin>32.229465, 50.527325, 3.675304</origin>
+	<direction>6.610000, -6.660000, 0.000000</direction>
+</camera>
+
+<object>
+	<type>square</type>
+	<origin>1.057182, 1.511085, 7.906202</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<direction2>1.000000,0.000000, 0.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0x00, 0xCB, 0xCC</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>0.713410, 1.391671, 7.540552</origin>
+	<direction>1.000000, 0.000000, 0.000000</direction>
+	<direction2>0.000000,0.000000, 1.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0xFC, 0xFD, 0xFF</color>
+	<reflection>1</reflection>
+	<fuzz>0.200000</fuzz></object>
+
+<object>
+	<type>square</type>
+	<origin>1.113410, 1.391671, 7.540552</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<direction2>0.000000,0.000000, 1.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0x00, 0xCC, 0xCC</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>42.713410, 43.391671, 49.540552</origin>
+	<direction>-0.002299, -0.999947, -0.010019</direction>
+	<direction2>-1.000000,0.000000, 0.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0x00, 0xCC, 0xCB</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>42.946480, 38.916127, 49.498576</origin>
+	<direction>-1.000000, 0.000000, 0.000000</direction>
+	<direction2>0.000000,0.000000, -1.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0x00, 0xCB, 0xCB</color>
+	<refraction>1.300000</refraction>	<marblesize>0.000192</marblesize>
+	<marblecolor>0x00, 0xB0, 0xCA</marblecolor>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>41.921925, 43.165040, 49.403797</origin>
+	<direction>-0.009794, -0.999952, 0.000000</direction>
+	<direction2>0.000000,0.000000, -1.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0x00, 0xCC, 0xCC</color>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<origin>13.553490, -2.393897, 44.729365</origin>
+	<direction>0.500479, 0.865749, 0.000000</direction>
+	<radius>1.732051</radius>
+	<height>7.681146</height>
+	<color>0x8E, 0x79, 0x02</color>
+	<fuzz>1.000000</fuzz></object>
+
+<object>
+	<type>plane</type>
+	<origin>24.065673, 25.084448, 7.525967</origin>
+	<direction>0.000000, -0.000004, -1.000000</direction>
+	<height>3.464102</height>
+	<color>0xBB, 0xC5, 0xDD</color>
+	<light>1763.000000</light>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>23.247837, 106.834196, 60.745298</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<height>5.916080</height>
+	<color>0xBF, 0x29, 0x36</color>
+	<light>2573.000000</light>
+</object>
+
+<object>
+	<type>torus</type>
+	<origin>14.913456, 40.081492, 28.691032</origin>
+	<direction>0.004722, 0.999972, -0.005722</direction>
+	<radius>3.162278</radius>
+	<small_radius>1.778279</small_radius>
+	<color>0xFC,0x99, 0xE0</color>
+	<fuzz>1.000000</fuzz></object>
+
+<object>
+	<type>cylinder</type>
+	<origin>42.482781, 42.959218, 49.714766</origin>
+	<direction>0.004016, 0.000933, -0.999992</direction>
+	<radius>1.000000</radius>
+	<height>6.403124</height>
+	<color>0x98, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<origin>0.913375, 42.915959, 49.434509</origin>
+	<direction>0.000000, 0.000000, -1.000000</direction>
+	<radius>1.000000</radius>
+	<height>6.480741</height>
+	<color>0x98, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<origin>0.673462, 42.746199, 7.829023</origin>
+	<direction>0.999953, 0.000124, 0.009673</direction>
+	<radius>1.000000</radius>
+	<height>6.557439</height>
+	<color>0x99, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<origin>-0.071340, 42.891814, 49.310236</origin>
+	<direction>1.000000, 0.000001, 0.000000</direction>
+	<radius>1.000000</radius>
+	<height>6.633250</height>
+	<color>0x98, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>1.129394, 43.029113, 49.402255</origin>
+	<radius>1.732051</radius>
+	<height>0.000000</height>
+	<color>0x99, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>1.079803, 43.234305, 8.177930</origin>
+	<radius>1.732051</radius>
+	<height>0.000000</height>
+	<color>0x99, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>42.862534, 43.573543, 8.717902</origin>
+	<radius>1.732051</radius>
+	<height>3.000000</height>
+	<color>0x98, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>43.123899, 42.858438, 49.321011</origin>
+	<radius>1.732051</radius>
+	<height>0.000000</height>
+	<color>0x99, 0x00, 0x00</color>
+</object>
+

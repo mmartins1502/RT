@@ -1,0 +1,177 @@
+<camera>
+	<origin>30.285325, 14.381414, -36.984997</origin>
+	<direction>-0.010000, 6.100000, 0.000000</direction>
+	<skybox>bar</skybox>
+	<filter>greyscale</filter>
+</camera>
+
+<object>
+	<type>sphere</type>
+	<origin>60.000000, -5.000000, 20.000000</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xE1, 0xE1, 0x63</color>
+	<transparent>zebra</transparent>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>20.000000, -5.000000, 20.000000</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x36, 0x02, 0x8F</color>
+	<marblesize>0.000098</marblesize>
+	<marblecolor>0x53, 0x75, 0x3F</marblecolor>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>40.000000, -5.000000, 20.000000</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x03, 0xB0, 0xDF</color>
+	<texture>earth</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>60.000000, -5.000000, 20.000000</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x8E, 0x80, 0xE1</color>
+	<light>3.000000</light>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<origin>0.000000, -15.000000, 30.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>5.477226</radius>
+	<height>6.557439</height>
+	<color>0xBA, 0x15, 0xDE</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<origin>20.000000, -15.000000, 30.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>5.477226</radius>
+	<height>6.244998</height>
+	<color>0x1C, 0xED, 0x25</color>
+	<refraction>2.200000</refraction></object>
+
+<object>
+	<type>cylinder</type>
+	<origin>60.000000, -15.000000, 30.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>5.477226</radius>
+	<height>6.633249</height>
+	<color>0x8B, 0x3A, 0x98</color>
+	<reflection>1</reflection>
+	<fuzz>1.000000</fuzz></object>
+
+<object>
+	<type>cylinder</type>
+	<origin>40.000000, -15.000000, 30.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<radius>5.477226</radius>
+	<height>6.244998</height>
+	<color>0x7B, 0x06, 0x9C</color>
+	<marblesize>0.000506</marblesize>
+	<marblecolor>0x22, 0x81, 0xF2</marblecolor>
+</object>
+
+<object>
+	<type>plane</type>
+	<origin>30.000000, -13.390005, 39.700250</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<height>6.855655</height>
+	<color>0x5A, 0xC6, 0x18</color>
+</object>
+
+<object>
+	<type>cone</type>
+	<origin>0.000000, 3.003332, -0.099917</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<radius>0.447214</radius>
+	<height>8.485281</height>
+	<color>0xD5, 0xD4, 0x81</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>cone</type>
+	<origin>60.000000, 3.003332, -0.099917</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<radius>0.447214</radius>
+	<height>7.549834</height>
+	<color>0x05, 0xE6, 0x1C</color>
+	<refraction>2.200000</refraction></object>
+
+<object>
+	<type>sphere</type>
+	<origin>-0.600000, -4.953320, 19.899667</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xEC, 0x77, 0xB5</color>
+	<marblesize>0.000992</marblesize>
+	<marblecolor>0xA2, 0xA5, 0x20</marblecolor>
+	<light>13.000000</light>
+	<transparent>earth</transparent>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>15.000000, -8.796335, 1.890091</origin>
+	<radius>4.898979</radius>
+	<height>0.000000</height>
+	<color>0xB6, 0x0E, 0x1F</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>43.600000, -8.456735, -0.497919</origin>
+	<radius>4.898979</radius>
+	<height>0.000000</height>
+	<color>0xB7, 0xFD, 0x67</color>
+	<refraction>2.300000</refraction></object>
+
+<object>
+	<type>sphere</type>
+	<origin>30.000000, -10.013891, -0.639708</origin>
+	<radius>4.898979</radius>
+	<height>2.645751</height>
+	<color>0x0F, 0xF6, 0x42</color>
+	<reflection>1</reflection>
+	<fuzz>0.500000</fuzz></object>
+
+<object>
+	<type>sphere</type>
+	<origin>30.000000, 47.304190, 5.140236</origin>
+	<radius>16.852300</radius>
+	<height>0.000000</height>
+	<color>0x85, 0xB0, 0xB4</color>
+	<light>37.000000</light>
+</object>
+
+<object>
+	<type>torus</type>
+	<origin>59.800000, 16.985118, 29.356209</origin>
+	<direction>0.000000, -0.959396, -0.282062</direction>
+	<radius>3.162278</radius>
+	<small_radius>1.778279</small_radius>
+	<color>0x86,0x21, 0xDA</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>torus</type>
+	<origin>0.300000, 24.660191, 29.655171</origin>
+	<direction>0.000000, 0.000000, -1.000000</direction>
+	<radius>3.162278</radius>
+	<small_radius>1.778279</small_radius>
+	<color>0xA6,0x67, 0xD9</color>
+	<refraction>1.100000</refraction></object>
+

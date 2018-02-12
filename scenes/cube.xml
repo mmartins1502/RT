@@ -1,0 +1,64 @@
+<camera>
+	<origin>0, 100, -200</origin>
+	<direction>0, -0.2, 1</direction>
+</camera>
+
+<object>
+	<type>square</type>
+	<origin>0, 0, 0</origin>
+	<direction>1, 0, 0</direction>
+	<lenght1>42</lenght1>
+	<direction2>0, 1, 0</direction2>
+	<lenght2>42</lenght2>
+	<color>0x00, 0x00, 0xFF</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>0, 0, 0</origin>
+	<direction>0, 0, 1</direction>
+	<lenght1>42</lenght1>
+	<direction2>1, 0, 0</direction2>
+	<lenght2>42</lenght2>
+	<color>0x00, 0xFF, 0x00</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>0, 0, 0</origin>
+	<direction>0, 0, 1</direction>
+	<lenght1>42</lenght1>
+	<direction2>0, 1, 0</direction2>
+	<lenght2>42</lenght2>
+	<color>0xFF, 0x00, 0x00</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>0, 0, -42</origin>
+	<direction>1, 0, 0</direction>
+	<lenght1>42</lenght1>
+	<direction2>0, 1, 0</direction2>
+	<lenght2>42</lenght2>
+	<color>0x00, 0x00, 0xFF</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>0, -42, 0</origin>
+	<direction>0, 0, 1</direction>
+	<lenght1>42</lenght1>
+	<direction2>1, 0, 0</direction2>
+	<lenght2>42</lenght2>
+	<color>0x00, 0xFF, 0x00</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>-42, 0, 0</origin>
+	<direction>0, 0, 1</direction>
+	<lenght1>42</lenght1>
+	<direction2>0, 1, 0</direction2>
+	<lenght2>42</lenght2>
+	<color>0xFF, 0x00, 0x00</color>
+</object>

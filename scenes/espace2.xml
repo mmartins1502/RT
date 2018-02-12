@@ -1,0 +1,90 @@
+<camera>
+	<origin>-136.342253, 11.319275, 38.553783</origin>
+	<direction>-2.200000, -0.000000, 0.000000</direction>
+	<skybox>universe</skybox>
+</camera>
+
+<object>
+	<type>sphere</type>
+	<origin>-69.900267, -23.408960, 54.966957</origin>
+	<radius>29.325757</radius>
+	<height>0.000000</height>
+	<color>0x8C, 0x94, 0xAC</color>
+	<light>2.000000</light>
+	<texture>sun</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-101.210915, -19.504334, 146.991376</origin>
+	<radius>15.147720</radius>
+	<height>0.000000</height>
+	<color>0xFF, 0xFF, 0xFF</color>
+	<reflection>1</reflection>
+	<refraction>2.800000</refraction></object>
+
+<object>
+	<type>sphere</type>
+	<origin>-14.865515, -3.193672, -64.560953</origin>
+	<radius>7.071068</radius>
+	<height>0.000000</height>
+	<color>0x5A, 0x61, 0x25</color>
+	<light>1.000000</light>
+	<texture>earth</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>12.992408, -20.494515, -46.651630</origin>
+	<radius>3.162278</radius>
+	<height>0.000000</height>
+	<color>0x85, 0x93, 0x73</color>
+	<light>1.000000</light>
+	<texture>moon</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-9.626496, -4.419324, -63.842104</origin>
+	<radius>5.582453</radius>
+	<height>0.000000</height>
+	<color>0xFF, 0xFF, 0xFF</color>
+	<reflection>1</reflection>
+	<refraction>2.200000</refraction></object>
+
+<object>
+	<type>sphere</type>
+	<origin>-112.752235, -0.348423, 153.431254</origin>
+	<radius>17.942096</radius>
+	<height>0.000000</height>
+	<color>0xFF, 0xFF, 0xFF</color>
+	<reflection>1</reflection>
+	<refraction>2.600000</refraction></object>
+
+<object>
+	<type>sphere</type>
+	<origin>60.654795, 46.325705, -113.690813</origin>
+	<radius>4.472136</radius>
+	<height>0.000000</height>
+	<color>0x4F, 0xF9, 0x4F</color>
+	<light>1.000000</light>
+	<texture>mars</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-45.403314, 38.294287, -106.182008</origin>
+	<radius>14.142136</radius>
+	<height>0.000000</height>
+	<color>0xFF, 0x91, 0x20</color>
+	<refraction>1.300000</refraction>	<fuzz>0.100000</fuzz>	<light>1.000000</light>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-47.257223, 36.295120, -99.299628</origin>
+	<radius>0.000000</radius>
+	<height>5.477226</height>
+	<color>0xD0, 0xA6, 0x4E</color>
+	<refraction>3.200000</refraction>	<fuzz>1.000000</fuzz></object>
+

@@ -1,0 +1,38 @@
+<camera>
+	<origin>-21.210606, 5.710454, 1.721033</origin>
+	<direction>69.500000, -0.300000, 0.000000</direction>
+	<skybox>universe</skybox>
+</camera>
+
+<object>
+	<type>sphere</type>
+	<origin>-28.232124, 0.000000, 21.266781</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x00, 0x00, 0x00</color>
+	<marblesize>0.000001</marblesize>
+	<marblecolor>0x00, 0x3A, 0x00</marblecolor>
+	<light>1.000000</light>
+	<transparent>earth</transparent>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-28.232124, 0.000000, 21.266781</origin>
+	<radius>6.324555</radius>
+	<height>0.000000</height>
+	<color>0x63, 0xF5, 0xEB</color>
+	<light>30.000000</light>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-28.255479, -0.028140, 21.336402</origin>
+	<radius>9.949874</radius>
+	<height>0.000000</height>
+	<color>0x00, 0x00, 0xFF</color>
+	<fuzz>0.000000</fuzz>	<marblesize>0.000439</marblesize>
+	<marblecolor>0x00, 0x00, 0xF7</marblecolor>
+	<light>1.000000</light>
+</object>
+

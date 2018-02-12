@@ -1,0 +1,114 @@
+<camera>
+	<origin>20.111993, 16.400000, -12.800680</origin>
+	<direction>-0.040000, 0.150000, 0.000000</direction>
+	<skybox>appartment</skybox>
+</camera>
+
+<object>
+	<type>square</type>
+	<origin>0.000000, 0.000000, -42.000000</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<direction2>1.000000,0.000000, 0.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0xFC, 0xFC, 0xFE</color>
+</object>
+
+<object>
+	<type>torus</type>
+	<origin>27.000000, 30.000000, 35.600000</origin>
+	<direction>0.289533, 0.600414, -0.745435</direction>
+	<radius>3.162278</radius>
+	<small_radius>1.778279</small_radius>
+	<color>0xEA,0x03, 0x06</color>
+	<refraction>1.700000</refraction></object>
+
+<object>
+	<type>torus</type>
+	<origin>20.000000, 43.700000, 19.000000</origin>
+	<direction>0.000000, 0.999978, -0.006639</direction>
+	<radius>3.162278</radius>
+	<small_radius>1.778279</small_radius>
+	<color>0xB5,0xDF, 0x56</color>
+	<light>1000.000000</light>
+</object>
+
+<object>
+	<type>torus</type>
+	<origin>20.485927, 25.000000, 27.792711</origin>
+	<direction>0.000000, 0.878346, -0.478025</direction>
+	<radius>3.162278</radius>
+	<small_radius>1.778279</small_radius>
+	<color>0x04,0x15, 0xF4</color>
+	<refraction>1.400000</refraction></object>
+
+<object>
+	<type>cone</type>
+	<origin>21.479788, 7.450000, 32.778802</origin>
+	<direction>0.999972, -0.007475, 0.000003</direction>
+	<radius>0.447214</radius>
+	<height>6.557439</height>
+	<color>0xC5, 0x0C, 0xC2</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>cylinder</type>
+	<origin>0.174465, 14.000000, 42.922430</origin>
+	<direction>0.999999, 0.001152, -0.000002</direction>
+	<radius>2.449490</radius>
+	<height>6.708204</height>
+	<color>0x6C, 0x6A, 0x9F</color>
+	<reflection>1</reflection>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>0.713410, 1.391671, 7.540552</origin>
+	<direction>1.000000, 0.000000, 0.000000</direction>
+	<direction2>0.000000,0.000000, 1.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0xFC, 0xFD, 0xFF</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>0.713410, 1.391671, 7.540552</origin>
+	<direction>0.000000, 1.000000, 0.000000</direction>
+	<direction2>0.000000,0.000000, 1.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0xFD, 0x23, 0x29</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>42.713410, 43.391671, 49.540552</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<direction2>-1.000000,0.000000, 0.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0xFF, 0xFE, 0xFF</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>42.713410, 43.391671, 49.540552</origin>
+	<direction>-1.000000, 0.000000, 0.000000</direction>
+	<direction2>0.000000,0.000000, -1.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0xFC, 0xFF, 0xFF</color>
+</object>
+
+<object>
+	<type>square</type>
+	<origin>42.713410, 43.391671, 49.540552</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<direction2>0.000000,0.000000, -1.000000</direction2>
+	<lenght1>42.000000</lenght1>
+	<lenght2>42.000000</lenght2>
+	<color>0x00, 0x00, 0xFF</color>
+</object>
+

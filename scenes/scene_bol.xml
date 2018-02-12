@@ -1,0 +1,22 @@
+<camera>
+	<origin>-2.543381, 20.731852, 1.164952</origin>
+	<direction>-0.100000, -0.500000, 0.000000</direction>
+</camera>
+<object>
+	<type>sphere</type>
+	<origin>0.627705, 9.428620, 32.770038</origin>
+	<radius>10.000000</radius>
+	<color>0X43,0XE8,0X9C</color>
+</object>
+<object>
+	<type>plane</type>
+	<origin>0.627705, 9.428620, 32.770038</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<color>0XBD,0X78,0X34</color>
+</object>
+<object>
+	<type>plane</type>
+	<origin>0.627705, -0.571380, 32.770038</origin>
+	<direction>0.000000, -1.000000, 0.000000</direction>
+	<color>0X56,0X76,0XE8</color>
+</object>

@@ -1,0 +1,268 @@
+<camera>
+	<origin>-79.235930, 55.569121, -205.060705</origin>
+	<direction>-13.100000, 0.100000, 0.000000</direction>
+	<skybox>clouds</skybox>
+	<filter>(null)</filter>
+</camera>
+
+<object>
+	<type>sphere</type>
+	<origin>42.785826, 18.412752, -122.903008</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xF9, 0x2C, 0x31</color>
+	<texture>stone2</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>25.823825, 18.412752, -112.306285</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x47, 0x50, 0xD7</color>
+	<texture>stone3</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>8.861825, 18.412752, -101.709562</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x6A, 0xEE, 0x48</color>
+	<texture>stone4</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-8.100176, 18.412752, -91.112840</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xEE, 0xC4, 0x4E</color>
+	<texture>stone5</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-42.024177, 18.412752, -69.919394</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x84, 0xC1, 0x85</color>
+	<texture>wood5</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-58.986178, 18.412752, -59.322671</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xB0, 0x06, 0x79</color>
+	<texture>zebra</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-50.505178, 38.412752, -64.621033</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xAE, 0x6E, 0x8F</color>
+	<texture>stone1</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-33.543177, 38.412752, -75.217755</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x3C, 0xDF, 0xBB</color>
+	<texture>rayure</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>34.304826, 38.412752, -117.604647</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x04, 0xCE, 0xE6</color>
+	<texture>pavement2</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>17.342825, 38.412752, -107.007924</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xCE, 0x37, 0x8E</color>
+	<texture>pavement3</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>0.380824, 38.412752, -96.411201</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xB8, 0x58, 0xBF</color>
+	<texture>punisher</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-16.581176, 38.412752, -85.814478</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x79, 0xD7, 0x80</color>
+	<texture>raytracer</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-8.100176, 138.412752, -91.112840</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x91, 0xA3, 0x49</color>
+	<texture>earth</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-42.024177, 58.412752, -69.919394</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x81, 0xA1, 0x87</color>
+	<texture>Metal(36)</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-25.062177, 58.412752, -80.516117</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x07, 0xCB, 0x85</color>
+	<texture>Metal(35)</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>25.823825, 58.412752, -112.306285</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x08, 0x70, 0x10</color>
+	<texture>Metal(32)</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>8.861825, 58.412752, -101.709562</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x8A, 0x0E, 0xA1</color>
+	<texture>Metal(33)</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-8.100176, 58.412752, -91.112840</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xE3, 0xAC, 0x90</color>
+	<texture>Metal(34)</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-16.581176, 118.412752, -85.814478</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x7E, 0xDD, 0x70</color>
+	<texture>mars</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-33.543177, 78.412752, -75.217755</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x6D, 0xBB, 0x1B</color>
+	<texture>Metal(31)</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-16.581176, 78.412752, -85.814478</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x74, 0x14, 0xDE</color>
+	<texture>floor2</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>0.380824, 78.412752, -96.411201</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0xBD, 0x30, 0xBC</color>
+	<texture>floor1</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>17.342825, 78.412752, -107.007924</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x37, 0xD9, 0x56</color>
+	<texture>brick1</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>0.380824, 118.412752, -96.411201</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x8B, 0x7E, 0xBD</color>
+	<texture>moon</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-25.062177, 98.412752, -80.516117</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x32, 0x59, 0xE1</color>
+	<texture>baseball</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-8.100176, 98.412752, -91.112840</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x0D, 0x60, 0x10</color>
+	<texture>football</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-25.062177, 18.412752, -80.516117</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x95, 0x3A, 0x76</color>
+	<texture>stone6</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>9.574127, 97.307985, -100.569391</origin>
+	<radius>10.000000</radius>
+	<height>0.000000</height>
+	<color>0x0C, 0xBD, 0xD6</color>
+	<texture>sun</texture>
+</object>
+
+<object>
+	<type>sphere</type>
+	<origin>-87.877215, 85.472663, -285.247551</origin>
+	<radius>17.720045</radius>
+	<height>0.000000</height>
+	<color>0xAC, 0x92, 0x21</color>
+	<light>88.000000</light>
+</object>
+
